@@ -1,22 +1,3 @@
-/*
-* NOBEL - A minimal portfolio template from Designova
-* Build: Jan 2016;
-* Author: Designova, http://www.designova.net
-* Copyright (C) 2016 Designova. All rights reserved.
-* This is a premium product. For licensing queries please contact hello@Designovadigital.com
-*/
-
-
-/* Table of contents
-–––––––––––––––––––––––––––––––––––––––––––––––––– 
-- 1. Common
-- 2. Header
-- 3. Footer
-- 4. Navigation
-- 5. Pages
-- 6. Utilities
-*/
-
 
 /* 1. Common
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -26,6 +7,91 @@ html, body{
 body, p{
   color: #888;
 }
+
+#search_container {
+            position: fixed;
+            cursor: default;
+            left: -101vw;
+        }
+
+            #search_container.hover {
+                position: fixed;
+                z-index: 9999;
+                -webkit-animation: floatBubble 0.25s normal ease-out;
+                -webkit-animation-fill-mode: forwards;
+            }
+
+            #search_container.hover2 {
+                position: fixed;
+                z-index: 9999;
+                -webkit-animation: floatBubble2 .25s normal ease-out;
+                -webkit-animation-fill-mode: forwards;
+            }
+
+        .search6 {
+            outline: none !important;
+            background: 0 0 !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 80px !important;
+            font-size: 50px !important;
+            padding: 6px 80px 6px 0 !important;
+        }
+
+
+
+        @-webkit-keyframes floatBubble {
+            0% {
+                left: -100vw;
+                opacity: 0.5;
+                border-top-right-radius: 100px;
+                border-bottom-right-radius: 100px;
+                height: 300px !important;
+            }
+
+            50% {
+                left: -55vw;
+                opacity: 0.7;
+                height: 55vh !important;
+                border-top-right-radius: 60px;
+                border-bottom-right-radius: 60px;
+            }
+
+            100% {
+                opacity: 1;
+                left: 0px;
+                height: 100vh !important;
+                border-top-right-radius: 30px;
+                border-bottom-right-radius: 30px;
+            }
+        }
+
+        @-webkit-keyframes floatBubble2 {
+            0% {
+                left: 0px;
+                opacity: 1;
+                height: 80vh;
+                border-top-right-radius: 30px;
+                border-bottom-right-radius: 30px;
+            }
+
+            50% {
+                left: -55vw;
+                opacity: 0.4;
+                height: 55vh !important;
+                border-top-right-radius: 60px;
+                border-bottom-right-radius: 60px;
+            }
+
+            100% {
+                left: -120vh !important;
+                opacity: 0;
+                height: 300px !important;
+                border-top-right-radius: 100px;
+                border-bottom-right-radius: 100px;
+            }
+        }
+
 p{
   font-size: 14px;
   line-height: 21px;
@@ -106,9 +172,47 @@ header.masthead.highlighted{
       transition: all .8s linear;
 }
 
+header.masthead.highlighted .btn-nobel-dark.search:hover {
+    background: transparent !important;
+}
+
+header.masthead.highlighted .btn-nobel-dark.search:hover .ion-search {
+    color: #000;
+}
+
+header.masthead.highlighted input.search-general {
+  border-color: #000 !important;
+  color: #908f8c !important;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+header.masthead.highlighted input.search-general:focus {
+ outline: none !important;
+}
+
+
+header.masthead.highlighted .btn-nobel-dark.search {
+    font-size: 18px;
+    border: solid 2px #000 !important;
+    background: #000!important;
+    color: #fff;
+}
+
     header.masthead.highlighted .ion-android-menu {
 
         color: #000;
+    }
+
+    header.masthead.highlighted .ion-android-search {
+
+        color: #000;
+    }
+
+
+     header.masthead.highlighted .ion-search {
+
+        color: #fff;
     }
 
       header.masthead .header-logo {
@@ -1084,6 +1188,31 @@ section.mastwrap{
 .contact-item {
 }
 
+
+input.search-general {
+    background: transparent !important;
+    border: none !important;
+    border-bottom: 2px solid !important;
+    border-radius: 0px !important;
+    box-shadow: none !important;
+    font-size: 14px !important;
+    line-height: 20px !important;
+    font-weight: normal !important;
+    margin-bottom: 30px !important;
+    padding: 10px 0 !important;
+    width: 100%;
+    -webkit-transition: all .8s linear;
+    -moz-transition: all .8s linear;
+    -ms-transition: all .8s linear;
+    -o-transition: all .8s linear;
+    transition: all .8s linear;
+}
+
+input.search-general:focus
+{
+    outline: none !important;
+}
+
 input {
     background: transparent !important;
     border: none !important;
@@ -1129,6 +1258,13 @@ textarea {
     -ms-transition: all .8s linear;
     -o-transition: all .8s linear;
     transition: all .8s linear;
+}
+
+input.search-general {
+  border-color: #fff !important;
+  color: #908f8c !important;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 input, textarea {
@@ -1477,6 +1613,17 @@ fieldset h1 {
     border: solid 2px #000;
     background: transparent;
     color: #000;
+}
+
+.btn-nobel-dark.search {
+    font-size: 18px;
+    border: solid 2px #fff;
+    background: #fff;
+    color: #000;
+}
+
+.btn-nobel-dark.search:hover .ion-search {
+    color: #fff;
 }
 
 .btn-nobel-dark:hover {
