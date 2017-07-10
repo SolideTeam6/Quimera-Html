@@ -1,0 +1,434 @@
+
+@media screen and (min-width:250px) and (max-width: 440px) {
+    #span_tittle_1 {
+        letter-spacing: 2px !important;
+        font-size: 11px !important;
+    }
+
+    #tittle_1 {
+        margin-left: -38px !important;
+    }
+
+    #row_tittle_1 {
+        text-align: center !important;
+    }
+
+    #span_row_tittle_1 {
+        font-size: 20px !important;
+        letter-spacing: 2px !important;
+        margin-left: 0px !important;
+    }
+
+    #eve_div1{
+        width:50% !important;
+    }
+
+    #eve_div2{
+        width:50% !important;
+    }
+
+}
+
+
+@media screen and (min-width: 341px) and (max-width: 440px)
+{
+    
+    #convocatoria_div_1 {
+        width: 40% !important;
+    }
+
+    #convocatoria_div_2 {
+        width: 60% !important;
+        margin-top: 120px !important;
+        top: 0 !important;
+        margin-left: 40% !important;
+    }
+
+    #con_article_1 {
+        padding: 0 !important;
+        margin-top: 80px !important;
+        width: 100% !important;
+        margin-left: 0% !important;
+    }
+
+        #con_article_1 .features-inner {
+            padding: 5px !important;
+        }
+
+    #con_h6_1 {
+        font-size: 11px !important;
+        letter-spacing: 2px !important;
+    }
+
+    #con_div2_art1 {
+        height: 26% !important;
+        padding: 0px !important;
+    }
+
+        #con_div2_art1 .features-inner {
+            padding: 5px !important;
+        }
+
+    #h6_con_div2_art1 {
+        letter-spacing: 2px !important;
+        font-size: 11px !important;
+        line-height: 18px !important;
+    }
+
+    #con_div2_art2 {
+        height: 26% !important;
+        padding: 0px !important;
+    }
+
+        #con_div2_art2 .features-inner {
+            padding: 5px !important;
+        }
+
+    #h6_con_div2_art2 {
+        letter-spacing: 2px !important;
+        font-size: 11px !important;
+        line-height: 18px !important;
+    }
+       #con_div2_art3 {
+        height: 20% !important;
+        padding: 0px !important;
+    }
+
+        #con_div2_art3 .features-inner {
+            padding: 5px !important;
+        }
+
+    #h6_con_div2_art3 {
+        letter-spacing: 3px !important;
+        font-size: 12px !important;
+        line-height: 28px !important;
+    }
+}
+
+@media screen and (min-width: 300px) and (max-width: 340px)
+{
+    
+    #convocatoria_div_1 {
+        width: 40% !important;
+    }
+
+    #convocatoria_div_2 {
+        width: 60% !important;
+        margin-top: 120px !important;
+        top: 0 !important;
+        margin-left: 40% !important;
+    }
+
+    #con_article_1 {
+        padding: 0 !important;
+        margin-top: 80px !important;
+        width: 100% !important;
+        margin-left: 0% !important;
+    }
+
+        #con_article_1 .features-inner {
+            padding: 5px !important;
+        }
+
+    #con_h6_1 {
+        font-size: 11px !important;
+        letter-spacing: 2px !important;
+    }
+
+    #con_div2_art1 {
+        height: 21% !important;
+        padding: 0px !important;
+    }
+
+        #con_div2_art1 .features-inner {
+            padding: 5px !important;
+        }
+
+    #h6_con_div2_art1 {
+        letter-spacing: 1.5px !important;
+        font-size: 10px !important;
+        line-height: 14px !important;
+    }
+
+    #con_div2_art2 {
+        height: 21% !important;
+        padding: 0px !important;
+    }
+
+        #con_div2_art2 .features-inner {
+            padding: 5px !important;
+        }
+
+    #h6_con_div2_art2 {
+        letter-spacing: 1.5px !important;
+        font-size: 10px !important;
+        line-height: 14px !important;
+    }
+       #con_div2_art3 {
+        height: 20% !important;
+        padding: 0px !important;
+    }
+
+        #con_div2_art3 .features-inner {
+            padding: 5px !important;
+        }
+
+    #h6_con_div2_art3 {
+        letter-spacing: 2px !important;
+        font-size: 11px !important;
+        line-height: 20px !important;
+    }
+}
+
+@media screen and (min-width:441px) and (max-width: 700px) {
+
+    #row_tittle_1 {
+        text-align: center !important;
+    }
+
+    #span_row_tittle_1 {
+        font-size: 20px !important;
+        letter-spacing: 2px !important;
+        margin-left: 0px !important;
+    }
+
+       
+    #convocatoria_div_1 {
+        width: 40% !important;
+    }
+
+    #convocatoria_div_2 {
+        width: 60% !important;
+        margin-top: 120px !important;
+        top: 0 !important;
+        margin-left: 40% !important;
+    }
+
+    #con_article_1 {
+        padding: 0 !important;
+        margin-top: 80px !important;
+        width: 100% !important;
+        margin-left: 0% !important;
+    }
+
+        #con_article_1 .features-inner {
+            padding: 5px !important;
+        }
+
+    #con_h6_1 {
+        font-size: 13px !important;
+        letter-spacing: 3px !important;
+    }
+
+    #con_div2_art1 {
+        height: 23% !important;
+        padding: 0px !important;
+    }
+
+        #con_div2_art1 .features-inner {
+            padding: 5px !important;
+        }
+
+    #h6_con_div2_art1 {
+         letter-spacing: 2px !important;
+        font-size: 12px !important;
+        line-height: 22px !important;
+    }
+
+    #con_div2_art2 {
+        height: 23% !important;
+        padding: 0px !important;
+    }
+
+        #con_div2_art2 .features-inner {
+            padding: 5px !important;
+        }
+
+    #h6_con_div2_art2 {
+        letter-spacing: 2px !important;
+        font-size: 12px !important;
+        line-height: 22px !important;
+    }
+       #con_div2_art3 {
+        height: 20% !important;
+        padding: 0px !important;
+    }
+
+        #con_div2_art3 .features-inner {
+            padding: 5px !important;
+        }
+
+    #h6_con_div2_art3 {
+           letter-spacing: 2px !important;
+        font-size: 12px !important;
+        line-height: 25px !important;
+    }
+}
+
+@media screen and (min-width:701px) and (max-width: 970px) {
+
+    #row_tittle_1 {
+        text-align: center !important;
+    }
+
+    #span_row_tittle_1 {
+        font-size: 23px !important;
+        letter-spacing: 2px !important;
+        margin-left: 0px !important;
+    }
+
+       #convocatoria_div_1 {
+        width: 40% !important;
+    }
+
+    #convocatoria_div_2 {
+        width: 60% !important;
+        margin-top: 120px !important;
+        top: 0 !important;
+        margin-left: 40% !important;
+    }
+
+    #con_article_1 {
+        padding: 0 !important;
+        margin-top: 80px !important;
+        width: 100% !important;
+        margin-left: 0% !important;
+    }
+
+        #con_article_1 .features-inner {
+            padding: 15px !important;
+        }
+
+    #con_h6_1 {
+        font-size: 15px !important;
+        letter-spacing: 3px !important;
+    }
+
+    #con_div2_art1 {
+        height: 28% !important;
+        padding: 29px !important;
+    }
+
+        #con_div2_art1 .features-inner {
+            padding: 5px !important;
+        }
+
+    #h6_con_div2_art1 {
+         letter-spacing: 2.5px !important;
+        font-size: 14px !important;
+        line-height: 26px !important;
+    }
+
+    #con_div2_art2 {
+        height: 28% !important;
+        padding-top: 29px !important;
+    }
+
+        #con_div2_art2 .features-inner {
+            padding: 5px !important;
+        }
+
+    #h6_con_div2_art2 {
+          letter-spacing: 2.5px !important;
+        font-size: 14px !important;
+        line-height: 26px !important;
+    }
+       #con_div2_art3 {
+        height: 20% !important;
+        padding: 29px !important;
+    }
+
+        #con_div2_art3 .features-inner {
+            padding: 5px !important;
+        }
+
+    #h6_con_div2_art3 {
+          letter-spacing: 2.5px !important;
+        font-size: 16px !important;
+        line-height: 26px !important;
+    }
+}
+
+@media screen and (min-width:971px) and (max-width: 1250px) {
+
+    #row_tittle_1 {
+        text-align: center !important;
+    }
+
+    #span_row_tittle_1 {
+        font-size: 25px !important;
+        letter-spacing: 3px !important;
+        margin-left: 0px !important;
+    }
+      #convocatoria_div_1 {
+        width: 40% !important;
+    }
+
+    #convocatoria_div_2 {
+        width: 60% !important;
+        margin-top: 120px !important;
+        top: 0 !important;
+        margin-left: 40% !important;
+    }
+
+    #con_article_1 {
+        padding: 0 !important;
+        margin-top: 80px !important;
+        width: 100% !important;
+        margin-left: 0% !important;
+    }
+
+        #con_article_1 .features-inner {
+            padding: 15px !important;
+        }
+
+    #con_h6_1 {
+        font-size: 15px !important;
+        letter-spacing: 3px !important;
+    }
+
+    #con_div2_art1 {
+        height: 28% !important;
+        padding: 29px !important;
+    }
+
+        #con_div2_art1 .features-inner {
+            padding: 5px !important;
+        }
+
+    #h6_con_div2_art1 {
+         letter-spacing: 2.5px !important;
+        font-size: 14px !important;
+        line-height: 26px !important;
+    }
+
+    #con_div2_art2 {
+        height: 28% !important;
+        padding-top: 29px !important;
+    }
+
+        #con_div2_art2 .features-inner {
+            padding: 5px !important;
+        }
+
+    #h6_con_div2_art2 {
+          letter-spacing: 2.5px !important;
+        font-size: 14px !important;
+        line-height: 26px !important;
+    }
+       #con_div2_art3 {
+        height: 20% !important;
+        padding: 29px !important;
+    }
+
+        #con_div2_art3 .features-inner {
+            padding: 5px !important;
+        }
+
+    #h6_con_div2_art3 {
+          letter-spacing: 2.5px !important;
+        font-size: 16px !important;
+        line-height: 26px !important;
+    }
+
+}
