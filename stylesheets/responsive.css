@@ -256,6 +256,47 @@
         #lug_detail_div2 article {
             height: 100% !important;
         }
+
+        
+    #journal-container3 {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    #te_div1 {
+        width: 100% !important;
+        height: 50% !important;
+    }
+
+    #te_div2 {
+        width: 100% !important;
+        height: 50% !important;
+        padding-top: 0 !important;
+        height: 50% !important;
+        top: 50% !important;
+    }
+
+      #te_div2 article {
+        height: 100% !important;
+    }
+
+        #te_div2 .features-inner {
+            padding: 10px !important;
+            height: 100% !important;
+        }
+
+    #lu_div2_h6 {
+        font-size: 11px !important;
+        letter-spacing: 1.5px !important;
+        line-height: 15px !important;
+    }
+
+    #team_tittle{
+             padding: 0 !important; 
+     margin-left: 0 !important; 
+    width: 100% !important;
+    text-align: center;
+    }
 }
 
 @media screen and (min-width: 300px) and (max-width: 340px) {
@@ -467,6 +508,46 @@
         #lug_detail_div2 article {
             height: 100% !important;
         }
+
+    #journal-container3 {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    #te_div1 {
+        width: 100% !important;
+        height: 50% !important;
+    }
+
+    #te_div2 {
+        width: 100% !important;
+        height: 50% !important;
+        padding-top: 0 !important;
+        height: 50% !important;
+        top: 50% !important;
+    }
+
+      #te_div2 article {
+        height: 100% !important;
+    }
+
+        #te_div2 .features-inner {
+            padding: 10px !important;
+            height: 100% !important;
+        }
+
+    #lu_div2_h6 {
+        font-size: 11px !important;
+        letter-spacing: 1.5px !important;
+        line-height: 15px !important;
+    }
+
+    #team_tittle{
+             padding: 0 !important; 
+     margin-left: 0 !important; 
+    width: 100% !important;
+    text-align: center;
+    }
 }
 
 @media screen and (min-width:441px) and (max-width: 700px) {
@@ -731,6 +812,47 @@
         #lug_detail_div2 article {
             height: 100% !important;
         }
+
+        
+    #journal-container3 {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    #te_div1 {
+        width: 100% !important;
+        height: 50% !important;
+    }
+
+    #te_div2 {
+        width: 100% !important;
+        height: 50% !important;
+        padding-top: 0 !important;
+        height: 50% !important;
+        top: 50% !important;
+    }
+
+      #te_div2 article {
+        height: 100% !important;
+    }
+
+        #te_div2 .features-inner {
+            padding: 10px !important;
+            height: 100% !important;
+        }
+
+    #lu_div2_h6 {
+        font-size: 14px !important;
+        letter-spacing: 2px !important;
+        line-height: 19px !important;
+    }
+
+    #team_tittle{
+             padding: 0 !important; 
+     margin-left: 0 !important; 
+    width: 100% !important;
+    text-align: center;
+    }
 }
 
 @media screen and (min-width:701px) and (max-width: 970px) {
@@ -961,7 +1083,7 @@
         margin-left: 0 !important;
         padding: 0 !important;
     }
-    
+
     #journal-container2 {
         width: 100% !important;
         height: 100% !important;
@@ -994,6 +1116,46 @@
             height: 100% !important;
         }
 
+        
+    #journal-container3 {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    #te_div1 {
+        width: 100% !important;
+        height: 50% !important;
+    }
+
+    #te_div2 {
+        width: 100% !important;
+        height: 50% !important;
+        padding-top: 0 !important;
+        height: 50% !important;
+        top: 50% !important;
+    }
+
+      #te_div2 article {
+        height: 100% !important;
+    }
+
+        #te_div2 .features-inner {
+            padding: 10px !important;
+            height: 100% !important;
+        }
+
+    #lu_div2_h6 {
+        font-size: 16px !important;
+        letter-spacing: 2.5px !important;
+        line-height: 28px !important;
+    }
+
+    #team_tittle{
+             padding: 0 !important; 
+     margin-left: 0 !important; 
+    width: 100% !important;
+    text-align: center;
+    }
 }
 
 @media screen and (min-width:971px) and (max-width: 1250px) {
