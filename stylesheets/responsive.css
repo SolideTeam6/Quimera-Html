@@ -224,6 +224,38 @@
         margin-left: 0 !important;
         padding: 0 !important;
     }
+
+
+    #journal-container2 {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    #lug_detail_div1 {
+        width: 100% !important;
+        height: 50% !important;
+    }
+
+    #lug_detail_div2 {
+        width: 100% !important;
+        padding-top: 0 !important;
+        top: 50% !important;
+        height: 50% !important;
+    }
+
+        #lug_detail_div2 .features-inner {
+            padding: 30px !important;
+        }
+
+            #lug_detail_div2 .features-inner h6 {
+                font-size: 12px !important;
+                letter-spacing: 3px !important;
+                line-height: 17px !important;
+            }
+
+        #lug_detail_div2 article {
+            height: 100% !important;
+        }
 }
 
 @media screen and (min-width: 300px) and (max-width: 340px) {
@@ -404,6 +436,37 @@
         margin-left: 0 !important;
         padding: 0 !important;
     }
+
+    #journal-container2 {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    #lug_detail_div1 {
+        width: 100% !important;
+        height: 50% !important;
+    }
+
+    #lug_detail_div2 {
+        width: 100% !important;
+        padding-top: 0 !important;
+        top: 50% !important;
+        height: 50% !important;
+    }
+
+        #lug_detail_div2 .features-inner {
+            padding: 0px !important;
+        }
+
+            #lug_detail_div2 .features-inner h6 {
+                font-size: 12px !important;
+                letter-spacing: 3px !important;
+                line-height: 17px !important;
+            }
+
+        #lug_detail_div2 article {
+            height: 100% !important;
+        }
 }
 
 @media screen and (min-width:441px) and (max-width: 700px) {
@@ -635,6 +698,39 @@
         margin-left: 0 !important;
         padding: 0 !important;
     }
+
+
+    #journal-container2 {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    #lug_detail_div1 {
+        width: 100% !important;
+        height: 50% !important;
+    }
+
+    #lug_detail_div2 {
+        width: 100% !important;
+        padding-top: 0 !important;
+        padding: 20px !important;
+        top: 50% !important;
+        height: 50% !important;
+    }
+
+        #lug_detail_div2 .features-inner {
+            padding: 50px !important;
+        }
+
+            #lug_detail_div2 .features-inner h6 {
+                font-size: 17px !important;
+                letter-spacing: 4px !important;
+                line-height: 22px !important;
+            }
+
+        #lug_detail_div2 article {
+            height: 100% !important;
+        }
 }
 
 @media screen and (min-width:701px) and (max-width: 970px) {
@@ -865,6 +961,39 @@
         margin-left: 0 !important;
         padding: 0 !important;
     }
+    
+    #journal-container2 {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    #lug_detail_div1 {
+        width: 100% !important;
+        height: 50% !important;
+    }
+
+    #lug_detail_div2 {
+        width: 100% !important;
+        padding-top: 0 !important;
+        padding: 20px !important;
+        top: 50% !important;
+        height: 50% !important;
+    }
+
+        #lug_detail_div2 .features-inner {
+            padding: 70px !important;
+        }
+
+            #lug_detail_div2 .features-inner h6 {
+                font-size: 19px !important;
+                letter-spacing: 4px !important;
+                line-height: 25px !important;
+            }
+
+        #lug_detail_div2 article {
+            height: 100% !important;
+        }
+
 }
 
 @media screen and (min-width:971px) and (max-width: 1250px) {
@@ -951,7 +1080,7 @@
         line-height: 26px !important;
     }
 
-       #works-container {
+    #works-container {
         width: 100%;
         height: 100%;
     }
@@ -968,7 +1097,7 @@
             #works-container .works-item.works-item-one-third .works-item-inner {
                 width: 100%;
                 height: 100%;
-                padding:70px;
+                padding: 70px;
                 padding-top: 70px !important;
             }
 
