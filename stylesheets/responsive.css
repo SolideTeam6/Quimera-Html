@@ -1158,9 +1158,23 @@
     }
 }
 
+@media screen and (min-width:1251px) and (max-width: 2250px) {
+	#te_div2{
+	padding-top: 90px !important;
+}
+
+#lug_detail_div2{
+	padding-top: 120px !important;
+}
+   #ev_detail_div2{
+	   
+	   padding-top: 80px !important;
+   }
+}
+
 @media screen and (min-width:971px) and (max-width: 1250px) {
 
-    #row_tittle_1 {
+ #row_tittle_1 {
         text-align: center !important;
     }
 
