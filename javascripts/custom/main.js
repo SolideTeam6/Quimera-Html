@@ -25,7 +25,8 @@
 	$('.halfwidth').css('width',vW/2);
 	$('.halfheight').css('height',vH/2);
     $('.menu-panel').css('height',vH);
-    $('.mastwrap').css('margin-top',vH-vH/12);
+    //$('.mastwrap').css('margin-top',vH-vH/12);
+    $('.mastwrap').css('margin-top', vH - vH / 10);
 
 
 //PRELOADER
@@ -161,14 +162,14 @@
 
 
 //Waypoints
-    $('.mastwrap').waypoint(function(direction) {
-        if(direction == 'down'){
-            $('header.masthead').addClass('highlighted');
-        }
-        else{
-            $('header.masthead').removeClass('highlighted');
-        }
-    }, { offset: '50%' });  
+    //$('.mastwrap').waypoint(function(direction) {
+    //    if(direction == 'down'){
+    //        $('header.masthead').addClass('highlighted');
+    //    }
+    //    else{
+    //        $('header.masthead').removeClass('highlighted');
+    //    }
+    //}, { offset: '30%' });  
 
 
 })();
