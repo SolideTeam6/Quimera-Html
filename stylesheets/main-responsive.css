@@ -66,7 +66,7 @@
 	.works-masonry-container .works-item-one-third-spaced,
 	.works-masonry-container .works-item-one-half-spaced,
 	.works-masonry-container .works-item-two-third-spaced,
-	.works-masonry-container .works-item-one-fourth-spaced, 
+	.works-masonry-container .works-item-one-fourth-spaced,
     .journal-masonry-container .journal-item-one-half{
 	  margin: 0% !important;
 	  padding: 0 !important;
@@ -81,11 +81,11 @@
 	}
 
     .menu-panel nav > ul:hover{
-            -webkit-transform: scale(0.8); 
-            -moz-transform: scale(0.8); 
-             -ms-transform: scale(0.8); 
-            -o-transform: scale(0.8); 
-            transform: scale(0.8); 
+            -webkit-transform: scale(0.8);
+            -moz-transform: scale(0.8);
+             -ms-transform: scale(0.8);
+            -o-transform: scale(0.8);
+            transform: scale(0.8);
             -webkit-transition: all .4s ease-in-out;
                -moz-transition: all .4s ease-in-out;
                 -ms-transition: all .4s ease-in-out;
@@ -103,7 +103,7 @@
         margin-top: 30px;
         margin-bottom: 30px;
     }
-    .menu-panel ul li a{    
+    .menu-panel ul li a{
         font-size: 2.2rem;
     }
     header.masthead{
@@ -134,6 +134,22 @@
         padding-right: 50px;
         text-align: center;
     }
+
+    .categoria{
+      display:none;
+    }
+    .orange-res{
+      height: 60px;
+    }
+    .columnas-des{
+      display: none;
+    }
+    .columnas-mov{
+      display: block;
+    }
+    .lugar-title{
+      text-align: center
+    }
     .works-item-inner {
         padding: 0 40px;
         text-align: left;
@@ -149,14 +165,14 @@
         font-size: 20px !important;
         line-height: 27px !important;
     }
-    .featured-work-caption, .featured-work-caption span, 
+    .featured-work-caption, .featured-work-caption span,
     .personal-intro-caption, .personal-intro-caption span, .works-item-inner h3 > span,
-    .photography-intro-caption, .fullscreen-intro-caption > span, .fullscreen-intro-caption, 
+    .photography-intro-caption, .fullscreen-intro-caption > span, .fullscreen-intro-caption,
     .footcaps h4, .photography-intro-caption, .main-heading, .features-inner h3, .service-icon h4,
     .team-members h3{
         font-size: 16px !important;
         line-height: 23px !important;
-    } 
+    }
     .journal-item-inner h3 > span{
         font-size: 18px !important;
         line-height: 25px !important;
@@ -219,7 +235,7 @@
         padding-left: 50px;
         padding-right: 50px;
     }
-    .menu-panel ul li a{    
+    .menu-panel ul li a{
         font-size: 1.8rem;
     }
 
@@ -261,14 +277,14 @@
         font-size: 20px !important;
         line-height: 27px !important;
     }
-    .featured-work-caption, .featured-work-caption span, 
+    .featured-work-caption, .featured-work-caption span,
     .personal-intro-caption, .personal-intro-caption span, .works-item-inner h3 > span,
-    .photography-intro-caption, .fullscreen-intro-caption > span, .fullscreen-intro-caption, 
+    .photography-intro-caption, .fullscreen-intro-caption > span, .fullscreen-intro-caption,
     .footcaps h4, .photography-intro-caption, .main-heading, .features-inner h3, .service-icon h4,
     .team-members h3{
         font-size: 14px !important;
         line-height: 24px !important;
-    } 
+    }
     .journal-item-inner h3 > span{
         font-size: 14px !important;
         line-height: 21px !important;
